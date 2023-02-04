@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @tingyusu1786
-- 🌱 I’m currently learning HTML, CSS and JavaScript in AppWorks School
+- 🌱 I’m currently learning to be a frontend developer in AppWorks School
 - 🎧 I listen to techno when I code
 
 <!---
