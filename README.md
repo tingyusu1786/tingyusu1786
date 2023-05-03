@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @tingyusu1786
-- 🌱 I’m currently learning to be a frontend developer in AppWorks School
+- 🌱 I’m in AppWorks School learning frontend engineering
 - 🎧 I listen to techno when I code
 
 <!---
