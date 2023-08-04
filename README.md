@@ -1,5 +1,7 @@
 👋 Hi, I’m **Ting-Yu**
 <br/>
-🌱 A **frontend developer** at AppWorks School
+🌱
+**Frontend Developer**
 <br/>
-🔧 Familiar with **React.js**, **JavaScript**, **HTML** & **CSS**
+🔧
+**React.js**, **JavaScript**, **HTML** & **CSS**
