@@ -1,7 +1,7 @@
-👋 Hi, I’m **Ting-Yu**
+👋 Hi, I’m **Ting-Yu**, you can also call me **Suuuuuuuu**
 <br/>
 🌱
-**Frontend Developer**
+**Solution Engineer**
 <br/>
 🔧
-**React.js**, **JavaScript**, **HTML** & **CSS**
+**React.js**, **JavaScript**, **SQL**, **HTML** & **CSS**
